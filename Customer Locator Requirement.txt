@@ -1,0 +1,6 @@
+********Customer Locator******
+1.Bot has to extract data from BotsDna "Locator"
+2.Bot have to maintain different sheets(.xlsx) for different countries ::Cistomer Name & Country 
+3.Ignore/Skip "0" location in country field
+4.If the number of location is greater that Zero than only we have to extract the data from table and but into the Excel output file.
+5.
